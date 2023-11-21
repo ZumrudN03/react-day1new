@@ -1,0 +1,15 @@
+.navbar{
+    background-color: gray;
+    height: 6vh;
+    
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 40px;
+    font-size: 20px;
+    color: white;
+   padding: 10px 0px;
+}

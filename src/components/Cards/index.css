@@ -1,0 +1,8 @@
+.cards{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 40px;
+    padding: 30px 0px;
+    background-color: black;
+}
